@@ -11,3 +11,4 @@ $link-color: color.adjust($main-color, $hue: 210deg);
 $link-v-color: color.scale($link-color, $lightness: -8%);
 $link-ha-color: color.scale($link-color, $lightness: 8%);
 $bg-color: #fff;
+$min-height: 100svh;
