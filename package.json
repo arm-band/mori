@@ -1,6 +1,6 @@
 {
     "name": "mori",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "description": "Gulpを使用した最低限のフレームワークです。",
     "main": "gulpfile.js",
     "scripts": {
@@ -21,8 +21,8 @@
         "gulp-plumber": "^1.2.1",
         "gulp-rename": "^2.0.0",
         "gulp-sass": "^5.1.0",
-        "sass": "^1.59.3",
-        "webpack": "^5.76.3",
+        "sass": "^1.62.1",
+        "webpack": "^5.82.0",
         "webpack-stream": "^7.0.0",
         "terser-webpack-plugin": "^5.3.7"
     },
